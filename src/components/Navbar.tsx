@@ -14,7 +14,7 @@ const Navbar = () => {
           <div className="flex items-center">
             <Layers className="h-8 w-8 mr-2 text-purple-600" />
             <span className="font-bold text-xl bg-clip-text text-transparent bg-gradient-to-r from-purple-600 to-blue-500">
-              WebCreative
+              ZizzuCreation
             </span>
           </div>
           
