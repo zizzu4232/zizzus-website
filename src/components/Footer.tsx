@@ -11,7 +11,7 @@ const Footer = () => {
             <div className="flex items-center mb-4">
               <Layers className="h-7 w-7 mr-2 text-purple-400" />
               <span className="font-bold text-xl bg-clip-text text-transparent bg-gradient-to-r from-purple-400 to-blue-400">
-                WebCreative
+                ZizzuCreation
               </span>
             </div>
             <p className="text-gray-400 mb-4">
