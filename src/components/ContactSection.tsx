@@ -51,8 +51,8 @@ const ContactSection = () => {
                   <Mail className="h-6 w-6 mr-4 mt-1" />
                   <div>
                     <p className="font-medium">Email Us</p>
-                    <p className="mt-1">hello@webcreative.com</p>
-                    <p>support@webcreative.com</p>
+                    <p className="mt-1">zizzu21@gmail.com</p>
+                    <p>novfemt@gmail.com</p>
                   </div>
                 </div>
                 
@@ -60,7 +60,7 @@ const ContactSection = () => {
                   <Phone className="h-6 w-6 mr-4 mt-1" />
                   <div>
                     <p className="font-medium">Call Us</p>
-                    <p className="mt-1">+1 (555) 123-4567</p>
+                    <p className="mt-1">+2348119926320</p>
                     <p>Mon-Fri from 9am to 6pm</p>
                   </div>
                 </div>
@@ -69,8 +69,8 @@ const ContactSection = () => {
                   <MapPin className="h-6 w-6 mr-4 mt-1" />
                   <div>
                     <p className="font-medium">Visit Us</p>
-                    <p className="mt-1">123 Creative Ave, Suite 100</p>
-                    <p>San Francisco, CA 94103</p>
+                    <p className="mt-1">123 orelope street, no 1</p>
+                    <p>0j00 sasa , IB 23400</p>
                   </div>
                 </div>
               </div>
