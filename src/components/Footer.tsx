@@ -18,7 +18,7 @@ const Footer = () => {
               We create beautiful, functional websites that help businesses succeed online.
             </p>
             <p className="text-gray-400">
-              © 2023 WebCreative. All rights reserved.
+              © 2023 ZizzuCreation. All rights reserved.
             </p>
           </div>
           
